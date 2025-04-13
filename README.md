@@ -89,8 +89,6 @@ step 5. EAI 연계 전송
 - ETL은 항상 truncate 후 insert 처리
 - Java는 병렬로 읽고/처리하고/쓰기 (R-P-W 구조)
 
-<img src="docs/flow_diagram.png" width="400"/>
-
 ---
 
 ## 📁 상세 배치 처리 흐름
@@ -155,9 +153,16 @@ step 5. EAI 연계 전송
 
 ---
 
+## 🖼️ Flow Diagram
+
+<img src="docs/flow_diagram.png" width="300"/>
+
+> 전체 배치 흐름을 시각화한 다이어그램입니다.  
+> ETL → 병렬 처리 → 후처리 → 파일 생성 및 전송 과정을 표현합니다.
+
+---
 ## 📎 참고 사항
 
 - 현재 레포는 코드 비공개 상태로 운영되며, 문서 중심으로 구성되어 있습니다.
-- 전체 흐름도는 `docs/flow_diagram.png` 또는 Draw.io 기반 다이어그램으로 추후 제공 예정입니다.
 
 ---
