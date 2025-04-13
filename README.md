@@ -89,7 +89,7 @@ step 5. EAI 연계 전송
 - ETL은 항상 truncate 후 insert 처리
 - Java는 병렬로 읽고/처리하고/쓰기 (R-P-W 구조)
 
-<img src="docs/flow_diagram.png" width="600"/>
+<img src="docs/flow_diagram.png" width="400"/>
 
 ---
 
