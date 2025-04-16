@@ -4,6 +4,9 @@
 [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Informatica](https://img.shields.io/badge/Informatica-%23FF4F00.svg?style=for-the-badge&logo=informatica&logoColor=white)](https://www.informatica.com/)
 
+> **Note**: 본 프로젝트는 현대카드 사내 전용 시스템으로 실제 코드는 공개하지 않습니다.  
+> 기술 구조 및 역할 위주로 정리된 문서 기반 포트폴리오입니다.
+
 ---
 
 ## 🧩 Overview
